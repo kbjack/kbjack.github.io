@@ -87,11 +87,11 @@ background: url(/images/bk-body.jpg);
 
 /* Copyright image */
 .copyright-img {
-  width: 10rem;
+  width: 8rem;
   max-width: 100% !important;
   display: block;
   height: auto;
-  margin: 0 auto;
+  float: left;
   border-radius: 0;
 }
 
