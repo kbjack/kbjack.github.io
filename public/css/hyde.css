@@ -85,6 +85,16 @@ background: url(/images/bk-body.jpg);
   border-radius: 0;
 }
 
+/* Copyright image */
+.copyright-img {
+  width: 10rem;
+  max-width: 100% !important;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 0;
+}
+
 /* Sidebar links */
 .sidebar a {
   color: #fff;
